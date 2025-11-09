@@ -14,10 +14,15 @@
 # With Feedback:
 <img width="689" height="382" alt="image" src="https://github.com/user-attachments/assets/0ce0d0fa-b220-4727-bdc4-d6a9b06bd56c" />
 
+![IMG-20251109-WA0026 1](https://github.com/user-attachments/assets/5ac0b3f6-b5eb-4bad-a52f-2c9a7149cc14)
+
+
 # Tabulation
+![IMG-20251109-WA0027 1](https://github.com/user-attachments/assets/e1cedec4-a9ff-4fa7-933f-025f1b500cad)
 
 
 # Graph
+![WhatsApp Image 2025-11-09 at 16 40 44_5c36c8dd](https://github.com/user-attachments/assets/faba23ff-a674-45dc-a135-a090a00827e6)
 
 
 # Sample images 
