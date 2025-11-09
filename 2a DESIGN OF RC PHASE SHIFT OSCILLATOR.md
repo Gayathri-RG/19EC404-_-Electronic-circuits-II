@@ -27,7 +27,7 @@
 # Sample images 
 
 
-<img width="1481" height="835" alt="Screenshot 2025-11-09 180940" src="https://github.com/user-attachments/assets/a3c673e1-7897-4918-844f-cb6cc8e0eb7c" />
+<img width="1484" height="832" alt="Screenshot 2025-11-09 181222" src="https://github.com/user-attachments/assets/25acd093-91fd-4e61-a281-cf77df74e101" />
 
 
 # Result
