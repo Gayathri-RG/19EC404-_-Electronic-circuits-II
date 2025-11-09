@@ -1,5 +1,5 @@
 ## Exp. No. 2(a)
-**Date:**  
+**Date:**  3-09-2025
 
 ## DESIGN OF RC PHASE SHIFT OSCILLATOR
 <img width="482" height="638" alt="image" src="https://github.com/user-attachments/assets/d7a08edc-71f1-467d-9e20-747bdeee319d" />
@@ -26,6 +26,8 @@
 
 # Sample images 
 
+
+<img width="1481" height="835" alt="Screenshot 2025-11-09 180940" src="https://github.com/user-attachments/assets/a3c673e1-7897-4918-844f-cb6cc8e0eb7c" />
 
 
 # Result
