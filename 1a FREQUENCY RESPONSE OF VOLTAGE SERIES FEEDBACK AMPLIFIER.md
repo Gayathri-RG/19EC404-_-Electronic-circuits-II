@@ -1,5 +1,5 @@
 ## Exp. No. 1(a)
-**Date:**  
+**Date:**  18-08-2025
 ## FREQUENCY RESPONSE OF VOLTAGE SERIES FEEDBACK AMPLIFIER
 <img width="1117" height="1192" alt="image" src="https://github.com/user-attachments/assets/53877086-6a31-494a-a6ac-e5746cacd3db" />
 <img width="778" height="1074" alt="image" src="https://github.com/user-attachments/assets/264fbf03-f65b-47f2-9ea4-879fb75144ee" />
@@ -27,6 +27,8 @@
 
 
 ## Sample images 
+<img width="472" height="833" alt="Screenshot 2025-11-09 180551" src="https://github.com/user-attachments/assets/e702d047-7462-43e5-895a-75bb315d602d" />
+
 
 
 ## **Result**
